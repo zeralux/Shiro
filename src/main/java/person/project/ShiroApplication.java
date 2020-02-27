@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ShiroApplication {
 
 	public static void main(String[] args) {
+		System.out.println("GOGOGOGOGOG");
 		SpringApplication.run(ShiroApplication.class, args);
 	}
 
