@@ -10,6 +10,10 @@ public class ShiroApplication {
 		System.out.println("GOGOGOGOGOG");
 		SpringApplication.run(ShiroApplication.class, args);
 		System.out.println("NO");
+
+		System.out.println("NO");
+		System.out.println("NO");
+		System.out.println("NO");
 	}
 
 }
